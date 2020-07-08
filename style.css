@@ -26,8 +26,8 @@ color: white;
 }
 
 .logo-width{
-    height:59px;
-    width:198px;
+    height:58px;
+    width:175px;
 }
 
 div .nav-link{
@@ -95,23 +95,32 @@ div .nav-link{
     border: 0;
 }
 
-.box-model{
-   
-    background-color:#F8FFFB;
-    margin-right:40px;
-    margin-left: 40px;
-    padding-top:25px;
+.size-selection img {
+    width: 50px;
     padding-bottom: 20px;
-    border-radius: 15px;
-    width:20%;
-    margin-right: 10px;
+}
+.box-sizing{
+   border-radius: 10px;
+    padding: 40px 0px;
+    
+}
+.green-bg{
+    background-color: #F8FFFB;
+    
 }
 
+.change-effect:hover{
+    background-color: white;
+    box-shadow: 0 5px 20px rgba(109, 109, 109, 0.3);
+    border-radius: 10px;
 
-.box-model:hover{
-    background-color:white;
-    box-shadow: 0 5px 20px rgba(109, 109, 109, 0.12);;
 }
+.size-selection{
+    margin-top: 40px;
+    margin-bottom: 80px;
+    
+}
+
 
 .quote{
     
@@ -148,3 +157,13 @@ footer li a:hover{
 #new-button{
     width:100%;
 }
+
+
+
+
+.key-feature-box p{
+    color: 	#696969;
+}
+
+
+
