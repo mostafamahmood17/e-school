@@ -1,6 +1,6 @@
 body{
 font-family: Poppins, sans-serif;
-padding-bottom: 10px;
+
 }
 
 #sign-in{
@@ -117,8 +117,20 @@ div .nav-link{
     
         word-wrap: break-word;
         margin-top: 35px;
-        line-height: 30px
-        
-      
+        line-height: 30px     
+}
+
+footer{
+    background-color: #282531 ;
+    color:#fff;
+   
+}
+
+footer li a{
+    color:#fff;   
+}
+footer li a:hover{
+    text-decoration: none;
+    color:#21B573;
 }
 
